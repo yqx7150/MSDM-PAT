@@ -9,7 +9,7 @@ Multiple diffusion models-enhanced extremely limited-view reconstruction strateg
 ![image3](https://github.com/yqx7150/MSDM-PAT/blob/main/Fig.%206.png)
 ## Other Related Projects
 * Score-based generative model-assisted information compensation for high-quality limited-view reconstruction in photoacoustic tomography      
-[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597923001118)       [<font size=5>**[Code]**</font>]([https://github.com/yqx7150/PAT-Diffusion](https://github.com/yqx7150/Limited-view-PAT-Diffusion))
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000405)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Limited-view-PAT-Diffusion)
 
 * Sparse-view reconstruction for photoacoustic tomography combining diffusion model with model-based iteration      
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597923001118)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-Diffusion)
