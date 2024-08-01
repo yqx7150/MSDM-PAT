@@ -6,5 +6,7 @@ Multiple diffusion models-enhanced extremely limited-view reconstruction strateg
 ## The pipeline for the trainning and iterative reconstruction processes
 ![image2](https://github.com/yqx7150/MSDM-PAT/blob/main/Fig.%204.png)
 ## Reconstruction of simulated blood vessels in the limited-view case of 80°
-![image3]
+![image3](https://github.com/yqx7150/MSDM-PAT/blob/main/Fig.%206.png)
+## Other Related Projects
+PAT-public-data from NCU [Code](https://github.com/yqx7150/PAT-public-data)
  
