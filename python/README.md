@@ -1,6 +1,8 @@
 # MSDM-PAT
 
 Train:
+
+
 FS-DM
 CUDA_VISIBLE_DEVICES=0 python main.py --config=configs/ve/SIAT_kdata_ncsnpp.py --workdir=exp1 --mode=train --eval_folder=result
 
