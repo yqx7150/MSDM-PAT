@@ -29,7 +29,7 @@ test默认调用exp1，exp2下的模型
 weight下载：
 
 
-链接：https://pan.baidu.com/s/1b5UZB7EiQwQaia8fLwHM9g?pwd=1234 
+链接：[https://pan.baidu.com/s/1b5UZB7EiQwQaia8fLwHM9g?pwd=1234](https://pan.baidu.com/s/1-9xK0AZToV0cB-Ei_QB3gg?pwd=1234) 
 提取码：1234
 
 
