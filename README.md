@@ -4,7 +4,7 @@ X. Song, X. Zou, K. Zeng, J. Li, S. Hou, Y. Wu, Z. Li, C. Ma, Z. Zheng, K. Guo, 
 ## The forward diffusion and reverse diffusion processes
 ![image1](https://github.com/yqx7150/MSDM-PAT/blob/main/Fig.%201.png)
 ## The pipeline for the trainning and iterative reconstruction processes
-![image2]((https://github.com/yqx7150/MSDM-PAT/blob/main/fig5%204.png))
+![image2](https://github.com/yqx7150/MSDM-PAT/blob/main/fig5.png)
 ## Reconstruction of simulated blood vessels in the limited-view case of 80°
 ![image3](https://github.com/yqx7150/MSDM-PAT/blob/main/Fig.%206.png)
 ## Other Related Projects
