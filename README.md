@@ -8,6 +8,9 @@ X. Song, X. Zou, K. Zeng, J. Li, S. Hou, Y. Wu, Z. Li, C. Ma, Z. Zheng, K. Guo, 
 ## Reconstruction of simulated blood vessels in the limited-view case of 80°
 ![image3](https://github.com/yqx7150/MSDM-PAT/blob/main/Fig.%206.png)
 ## Other Related Projects
+* Accelerated model-based iterative reconstruction strategy for sparse-view photoacoustic tomography aided by multi-channel autoencoder priors       
+[<font size=5>**[Paper]**</font>](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202300281)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PAT-MDAE)   
+           
 * Score-based generative model-assisted information compensation for high-quality limited-view reconstruction in photoacoustic tomography      
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S2213597924000405)       [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Limited-view-PAT-Diffusion)
 
